@@ -1,2 +1,2 @@
 # R-s-Beauty-Room
-My first site.
+Primul meu site,realizat in cadrul unui concurs.
